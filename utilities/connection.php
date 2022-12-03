@@ -1,6 +1,6 @@
 <?php
    
-    $GLOBALS['connection'] = mysqli_connect("localhost", "thesis", "thesis", "veterinary");
+    $GLOBALS['connection'] = mysqli_connect("localhost", "thesis", "thesis", "petshop");
 
     //-------------------Start of User functions  ------------------------------
 
